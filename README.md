@@ -17,7 +17,7 @@ Details
 
 Details are provided in the following One Note document. 
 
-TBD
+https://bit.ly/3vGMyVb
 
 
 ![DESIGN](https://i.ibb.co/t8j9Wjr/PSA-O2-CYCLE.png)
