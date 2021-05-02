@@ -20,4 +20,4 @@ Details are provided in the following One Note document.
 TBD
 
 
-![DESIGN](https://ibb.co/18ykwyW)
+![DESIGN](https://i.ibb.co/t8j9Wjr/PSA-O2-CYCLE.png)
